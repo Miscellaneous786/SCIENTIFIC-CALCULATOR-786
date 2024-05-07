@@ -6,9 +6,9 @@ body{
   }
 
 .main-box{
-    width: 95%px;
+    width: 100vw;
     box-shadow: 0 0 10px rgb(0, 0, 0), inset 0 0 10px rgba(0, 0, 0, 0);
-    height: 95vh;
+    height: 100vh;
     display: flex;
     font-weight: 500;
     border-bottom-left-radius: 10px;
